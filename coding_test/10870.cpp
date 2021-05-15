@@ -19,5 +19,4 @@ int main() {
 	cin >> num;
 	cout << Fibo(num);
 
-
 }
