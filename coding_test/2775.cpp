@@ -4,7 +4,7 @@ using namespace std;
 
 int getNum(int a, int b)
 {
-	if (b == 1)		// 1龋老 版快
+	if (b == 1)		// 1龋老 版快!
 		return 1;
 	if (a == 0)	// 0摸老 版快
 		return b;
