@@ -6,7 +6,7 @@ int main()
 {
 	int n, m, mod, sum;
 	cin >> n;
-	m = n / 5; // 5kg봉지의 사용 최대 개수
+	m = n / 5;
 	while (m >= 0)
 	{
 		mod = 0;
